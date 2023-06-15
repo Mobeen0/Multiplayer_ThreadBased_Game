@@ -1,6 +1,6 @@
 *MUST HAVE SFML LIBRARY*:
 TO EXECUTE:
-g++ -O execName Assignment2.cpp -lsfml-graphics -lsfml-window -lsfml-system -lpthread
+g++ -O execName game.cpp -lsfml-graphics -lsfml-window -lsfml-system -lpthread
 
 
 I Only used SFML library to generate game board,characters and display string on the board.
